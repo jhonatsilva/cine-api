@@ -1,3 +1,0 @@
-
-ChatGPT
-A API "CineAPI" permite consultar, inserir e alterar informações de um catálogo de filmes. Ela oferece endpoints para buscar detalhes de filmes específicos, adicionar novos filmes e atualizar informações existentes na base de dados. Essa funcionalidade possibilita uma interação simples e eficiente com os dados do catálogo de filmes através de requisições HTTP.
