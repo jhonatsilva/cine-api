@@ -1,3 +1,8 @@
+"""
+Author: Jhonathan Silva
+Version 1.0.0
+Date: 2024-06-20
+"""
 from app import create_app
 from flask_restful import Api
 from app.resources.filme import Filmes, FilmeResource
