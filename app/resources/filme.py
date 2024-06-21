@@ -1,5 +1,5 @@
 from flask_restful import Resource, reqparse
-from app.models import Filme
+from app.models.filmes import Filme
 from app import db
 
 class Filmes(Resource):
