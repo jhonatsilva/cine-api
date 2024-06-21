@@ -1,0 +1,15 @@
+project/
+│
+├── app/
+│   ├── __init__.py
+│   ├── models.py
+│   └── resources/
+│       ├── __init__.py
+│       └── filme.py
+│
+├── config/
+│   └── config.py
+│
+├── run.py
+├── .env
+└── requirements.txt
